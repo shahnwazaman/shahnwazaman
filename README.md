@@ -13,20 +13,42 @@
 
 </div>
 
-Who I Am
+## Who I Am
 
+```ts
 const shahnwazAman = {
-  title: "CSE Artificial Intelligence & Machine Learning Student",
-  stack: ["Python", "Java", "OpenCV", "NumPy", "pandas"],
-  launchedProjects: [],
+  role: "CSE (AI & ML) Student",
+  focus: [
+    "Machine Learning",
+    "Computer Vision",
+    "Generative AI"
+  ],
+  languages: ["Python", "Java"],
+  technologies: [
+    "OpenCV",
+    "NumPy",
+    "pandas",
+    "Jupyter",
+    "Git",
+    "VS Code"
+  ],
+  skills: [
+    "Data Preprocessing",
+    "Model Training",
+    "Model Evaluation",
+    "Optimization",
+    "Problem Solving"
+  ],
   certifications: [
     "Python Skill Up",
     "Complete Machine Learning & Data Science - Skill Up",
     "Generative AI Studio - Simplilearn"
   ],
-  status: "AI/ML student focused on ML model development, computer vision, and generative AI",
-  openTo: "AI-driven projects where I can apply analytical thinking, write efficient code, and build scalable intelligent systems"
+  currentlyLearning: "Building intelligent and scalable AI/ML systems",
+  goal: "Grow as an AI/ML engineer and contribute to AI-driven projects"
 };
+```
+
 
 Featured Projects
 
