@@ -27,11 +27,6 @@ const shahnwazAman = {
 ```
 
 
-Featured Projects
-
-Project repositories were not provided in the supplied profile information, so no project cards are fabricated here.
-
-Tech Stack
 
 Languages
 
