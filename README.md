@@ -49,22 +49,7 @@ Dev Tools
   <img src="https://skillicons.dev/icons?i=jupyter,git,vscode" alt="Jupyter Git VS Code"/>
 </p>
 
-GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shahnwazaman&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc&icon_color=7dd3fc" height="180" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnwazaman&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=7dd3fc" height="180" alt="Top Languages"/>
-
-</div>
-
-Streak Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=shahnwazaman&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=7dd3fc" alt="GitHub Streak"/>
-
-</div>
 
 GitHub Trophies
 
