@@ -15,16 +15,19 @@
 
 ## Who I Am
 
-```ts
-const shahnwazAman = {
-  title: "CSE (AI & ML) Student",
-  stack: ["Python", "Java", "OpenCV", "NumPy", "pandas"],
-  launchedProjects: [],
-  certifications: ["Python Skill Up", "ML & Data Science - Skill Up", "Generative AI Studio - Simplilearn"],
-  status: "Learning & building in AI/ML",
-  openTo: "AI/ML projects & opportunities"
-};
-```
+🎓 **CSE (AI & ML) Student** at LNCT Group of Colleges
+
+🤖 **Focused on:** Machine Learning · Computer Vision · Generative AI
+
+💻 **Languages:** Python · Java
+
+🛠️ **Technologies:** OpenCV · NumPy · pandas
+
+🔧 **Tools:** Git · VS Code · Jupyter
+
+📚 **Currently Learning:** AI/ML & Intelligent Systems
+
+🎯 **Goal:** Build practical, scalable AI solutions
 
 
 
