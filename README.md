@@ -21,7 +21,7 @@
 
 ## 👋 Who I Am
 
-```typescript
+typescript
 const shahnwazAman = {
   title: "CSE Artificial Intelligence and Machine Learning Student",
   stack: {
@@ -32,9 +32,9 @@ const shahnwazAman = {
   status: "Learning, building, and exploring AI/ML 🚀",
   openTo: "Open to work",
 };
-```
 
----
+
+
 
 ## 🛠️ Tech Stack
 
