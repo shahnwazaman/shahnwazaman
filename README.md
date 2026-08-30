@@ -17,35 +17,12 @@
 
 ```ts
 const shahnwazAman = {
-  role: "CSE (AI & ML) Student",
-  focus: [
-    "Machine Learning",
-    "Computer Vision",
-    "Generative AI"
-  ],
-  languages: ["Python", "Java"],
-  technologies: [
-    "OpenCV",
-    "NumPy",
-    "pandas",
-    "Jupyter",
-    "Git",
-    "VS Code"
-  ],
-  skills: [
-    "Data Preprocessing",
-    "Model Training",
-    "Model Evaluation",
-    "Optimization",
-    "Problem Solving"
-  ],
-  certifications: [
-    "Python Skill Up",
-    "Complete Machine Learning & Data Science - Skill Up",
-    "Generative AI Studio - Simplilearn"
-  ],
-  currentlyLearning: "Building intelligent and scalable AI/ML systems",
-  goal: "Grow as an AI/ML engineer and contribute to AI-driven projects"
+  title: "CSE (AI & ML) Student",
+  stack: ["Python", "Java", "OpenCV", "NumPy", "pandas"],
+  launchedProjects: [],
+  certifications: ["Python Skill Up", "ML & Data Science - Skill Up", "Generative AI Studio - Simplilearn"],
+  status: "Learning & building in AI/ML",
+  openTo: "AI/ML projects & opportunities"
 };
 ```
 
