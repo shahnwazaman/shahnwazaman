@@ -51,27 +51,12 @@ Dev Tools
 
 
 
-GitHub Trophies
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shahnwazaman&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnwazaman&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" width="48%"/> <br/> <img src="https://streak-stats.demolab.com?user=shahnwazaman&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="70%"/>
 
-<div align="center">
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=shahnwazaman&theme=nord&no-frame=true&no-bg=true&margin-w=8" alt="GitHub Trophies"/>
-
-</div>
-
-Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shahnwazaman&bg_color=2e3440&color=7dd3fc&line=7dd3fc&point=7dd3fc&area=true&hide_border=false&border_color=7dd3fc" width="100%" alt="Contribution Activity Graph"/>
-
-</div>
-
-Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/shahnwaz-aman">
+<img src="https://github-profile-trophy.vercel.app/?username=shahnwazaman&no-frame=true&no-bg=true&theme=nord" width="90%"/> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahnwazaman&theme=nord&color=7dd3fc&line=7dd3fc&point=ffffff&hide_border=true" width="95%"/> </div>s://www.linkedin.com/in/shahnwaz-aman">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=0f172a" alt="LinkedIn"/>
 </a>
 <a href="mailto:shahnwazsiddique1057@gmail.com">
