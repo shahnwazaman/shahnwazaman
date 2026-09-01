@@ -21,7 +21,7 @@
 
 💻 **Languages:** Python · Java
 
-🛠️ **Technologies:** OpenCV · NumPy · pandas , 
+🛠️ **Technologies:** OpenCV · NumPy · pandas , seaborn
 
 🔧 **Tools:** Git · VS Code · Jupyter
 
