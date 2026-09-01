@@ -15,7 +15,7 @@
 
 ## Who I Am
 
-🎓 **CSE (AI & ML) Student** at LNCT Group of Colleges
+🎓 **CSE (AI & ML) Student** at LNCT Group of Colleges.
 
 🤖 **Focused on:** Machine Learning · Computer Vision · Generative AI
 
