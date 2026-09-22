@@ -7,8 +7,8 @@ Email Me 👉 ✉️ **shahnwazsiddique1057@gmail.com** For Collaboration/Projec
 
 
 
-## 🌐 Socials:
-[![LinkedIn](www.linkedin.com/in/shahnwaz-aman )  [![email](shahnwazsiddique1057@gmail.com ) 
+## 🌐 Social Connects:
+[LinkedIn](https://www.linkedin.com/in/shahnwaz-aman) | [Email](mailto:shahnwazsiddique1057@gmail.com)
 
 
 
