@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Shahnwaz Aman
-**A passionate Fullstack Devloper**
+**A passionate Java Fullstack Devloper**
 
 Email Me 👉 ✉️ **shahnwazsiddique1057@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
