@@ -39,23 +39,23 @@
 
 ---
 
-### 📊 GitHub Statistics
+## ⚡ GitHub Activity & Statistics
 
 <div align="center">
 
-  <!-- GitHub Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahnwazaman&theme=nord" width="100%" alt="GitHub Profile Summary" />
+  <!-- Contribution Overview -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahnwazaman&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 
-  <!-- GitHub Stats and Top Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahnwazaman&theme=nord" width="49%" alt="GitHub Statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahnwazaman&theme=nord" width="49%" alt="Top Languages" />
+  <br/>
 
-  <!-- GitHub Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahnwazaman&theme=nord&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
+  <!-- Stats Cards -->
+  <img height="170" width="49%" src="https://github-readme-stats.vercel.app/api?username=shahnwazaman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5&include_all_commits=true" alt="GitHub Stats"/>
 
-</div>
+  <img height="170" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnwazaman&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5" alt="Top Languages"/>
 
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=100&section=footer" width="100%" alt="Footer" />
+  <br/><br/>
+
+  <!-- Streak Stats -->
+  <img width="65%" src="https://streak-stats.demolab.com?user=shahnwazaman&theme=tokyonight&hide_border=true&background=1a1b27&ring=bf91f3&fire=ff9e64&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+
 </div>
