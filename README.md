@@ -43,19 +43,20 @@
 
 <div align="center">
 
-  <!-- Contribution Overview -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shahnwazaman&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+  <!-- Contribution Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahnwazaman&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
 
   <br/>
 
-  <!-- Stats Cards -->
-  <img height="170" width="49%" src="https://github-readme-stats.vercel.app/api?username=shahnwazaman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=c0caf5&include_all_commits=true" alt="GitHub Stats"/>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shahnwazaman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Statistics"/>
 
-  <img height="170" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnwazaman&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5" alt="Top Languages"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnwazaman&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
   <br/><br/>
 
-  <!-- Streak Stats -->
-  <img width="65%" src="https://streak-stats.demolab.com?user=shahnwazaman&theme=tokyonight&hide_border=true&background=1a1b27&ring=bf91f3&fire=ff9e64&currStreakLabel=70a5fd" alt="GitHub Streak"/>
+  <!-- Contribution Streak -->
+  <img src="https://streak-stats.demolab.com?user=shahnwazaman&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
 
 </div>
