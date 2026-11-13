@@ -39,24 +39,19 @@
 
 ---
 
-## ⚡ GitHub Activity & Statistics
+### ⚡ GitHub Activity & Statistics
 
 <div align="center">
-
-  <!-- Contribution Activity Graph -->
+  <!-- Contribution Activity Graph (Native GitHub Readme SVG) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahnwazaman&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
-
-  <br/>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shahnwazaman&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" alt="GitHub Statistics"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnwazaman&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-
   <br/><br/>
-
+  
+  <!-- GitHub Stats & Top Languages (Using Profile Summary Cards Alternative) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahnwazaman&theme=tokyonight" width="48%" alt="GitHub Statistics"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahnwazaman&theme=tokyonight" width="48%" alt="Top Languages"/>
+  
+  <br/><br/>
+  
   <!-- Contribution Streak -->
-  <img src="https://streak-stats.demolab.com?user=shahnwazaman&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahnwazaman&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Contribution Streak"/>
 </div>
