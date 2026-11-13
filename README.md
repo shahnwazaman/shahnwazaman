@@ -42,16 +42,18 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahnwazaman&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnwazaman&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" width="48%"/>
-  
-  <br/><br/>
-
-  <img src="https://streak-stats.demolab.com?user=shahnwazaman&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" width="97%"/>
+  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahnwazaman&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahnwazaman&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=100&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahnwazaman&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=100&section=footer&animation=twinkling" width="100%" alt="Footer" />
 </div>
