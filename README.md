@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shahnwazaman&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="GitHub Stats" />
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shahnwazaman&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false" alt="Top Languages" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=shahnwazaman&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false&token=YOUR_GITHUB_TOKEN" alt="GitHub Stats" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnwazaman&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false&token=YOUR_GITHUB_TOKEN" alt="Top Languages" />
 </div>
 
 <br/>
