@@ -42,8 +42,12 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=shahnwazaman&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&hide_border=false&token=YOUR_GITHUB_TOKEN" alt="GitHub Stats" />
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnwazaman&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&hide_border=false&token=YOUR_GITHUB_TOKEN" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahnwazaman&theme=nord" alt="GitHub Profile Details" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahnwazaman&theme=nord" width="48%" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahnwazaman&theme=nord" width="48%" alt="Top Languages" />
 </div>
 
 <br/>
