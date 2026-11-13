@@ -39,25 +39,23 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahnwazaman&theme=nord" alt="GitHub Profile Details" width="100%" />
+
+  <!-- GitHub Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahnwazaman&theme=nord" width="100%" alt="GitHub Profile Summary" />
+
+  <!-- GitHub Stats and Top Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahnwazaman&theme=nord" width="49%" alt="GitHub Statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahnwazaman&theme=nord" width="49%" alt="Top Languages" />
+
+  <!-- GitHub Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahnwazaman&theme=nord&hide_border=true" width="70%" alt="GitHub Contribution Streak" />
+
 </div>
 
+<!-- Footer -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahnwazaman&theme=nord" width="48%" alt="Stats Card" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shahnwazaman&theme=nord" width="48%" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahnwazaman&theme=nord&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=100&section=footer&animation=twinkling" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=100&section=footer" width="100%" alt="Footer" />
 </div>
